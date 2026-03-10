@@ -11,6 +11,7 @@ expense = {
                 "Description": description,
                 "Amount": amount
             }  
+Expenses.append(expense)
             
 Lists: "Used as a central database to store multiple expense dictionaries, making it easy to manage the entire collection."
 Loops: "Implemented for and while loops to iterate through the expense list, calculate total spending, and provide a continuous user menu."
